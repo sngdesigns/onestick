@@ -29,4 +29,4 @@ You can remove them entirely with the one-time Remove Ads purchase.
 **Where is my data stored?**
 Game progress is stored only on your device. If you sign in to Game
 Center, your score and achievements go to Apple's Game Center service.
-See our [Privacy Policy](privacy/PrivacyPolicy.md).
+See our [Privacy Policy](./privacy/PrivacyPolicy.md).
