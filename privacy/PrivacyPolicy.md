@@ -82,7 +82,7 @@ non-personalized mode and are not targeted based on a child's data.
 ## Contact
 
 If you have questions about this policy or your data, contact us at:
-support@sngdesigns.com
+onesticksupport@gmail.com
 
 ## Changes
 
